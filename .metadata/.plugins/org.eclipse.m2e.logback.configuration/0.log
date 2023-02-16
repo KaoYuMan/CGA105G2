@@ -1,0 +1,27 @@
+2023-02-17 00:13:39,183 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-02-17 00:15:56,990 [Worker-26: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.example:CGA105G2:1.0-SNAPSHOT @ C:\CGA105_WebApp\CGA105G2\CGA105G2\pom.xml.
+2023-02-17 00:16:11,616 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-17 00:16:11,622 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-02-17 00:16:11,650 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-17 00:16:11,650 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CGA105_WebApp\CGA105G2\CGA105G2\src\test\resources
+2023-02-17 00:16:11,827 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-17 00:16:11,828 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-02-17 00:16:11,831 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-17 00:16:11,832 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CGA105_WebApp\CGA105G2\CGA105G2\src\test\resources
+2023-02-17 00:16:37,360 [Worker-28: Launching Executing install in C__CGA105_WebApp_CGA105G2_CGA105G2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\CGA105_WebApp\CGA105G2\CGA105G2
+2023-02-17 00:16:37,363 [Worker-28: Launching Executing install in C__CGA105_WebApp_CGA105G2_CGA105G2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2023-02-17 00:16:37,364 [Worker-28: Launching Executing install in C__CGA105_WebApp_CGA105G2_CGA105G2] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2023-02-17 00:16:46,829 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-02-17 00:16:47,402 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.example:CGA105G2:1.0-SNAPSHOT @ C:\CGA105_WebApp\CGA105G2\CGA105G2\pom.xml.
+2023-02-17 00:16:48,723 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CGA105G2/src/main/java
+2023-02-17 00:16:48,723 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CGA105G2/src/main/resources
+2023-02-17 00:16:48,724 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CGA105G2/src/test/java
+2023-02-17 00:16:52,952 [Worker-17: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CGA105G2
+2023-02-17 00:16:52,972 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2023-02-17 00:16:57,059 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-17 00:16:57,060 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-02-17 00:16:57,082 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-17 00:16:57,083 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CGA105_WebApp\CGA105G2\CGA105G2\src\test\resources
+2023-02-17 00:16:57,083 [Worker-17: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CGA105G2
+2023-02-17 00:16:57,084 [Worker-17: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CGA105G2
+2023-02-17 00:16:57,143 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
