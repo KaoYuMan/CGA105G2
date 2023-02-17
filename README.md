@@ -12,7 +12,7 @@
 * 後端：Java、Servlet、JDBC、Hibernate
 * 資料庫：MySQL、Redis
 
-![](前台商品瀏覽.jpg) 
+![](Member_goods.jpg) 
 
 
 🔗專題PDF介紹：https://reurl.cc/n70vo1
