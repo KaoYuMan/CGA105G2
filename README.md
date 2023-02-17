@@ -22,9 +22,9 @@
 * 店家商城可以進行增刪改查之管理
 
 ---
+###  **專題附件**
+🔗PDF介紹：https://reurl.cc/n70vo1
 
-🔗專題PDF介紹：https://reurl.cc/n70vo1
-
-🎞專題影片介紹：https://youtu.be/2C0t2nPfJi8
+🎞影片介紹：https://youtu.be/2C0t2nPfJi8
 
 
